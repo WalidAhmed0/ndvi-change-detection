@@ -26,4 +26,4 @@ The pipeline includes:
 
 Example output (before vs. after NDVI patches, model detections):  
 
-![Example Results](Change%20Detection%202.png)
+![Example Results](ChangedPatches.png)
