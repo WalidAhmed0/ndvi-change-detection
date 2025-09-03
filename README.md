@@ -2,6 +2,7 @@
 
 This repository contains the implementation of a **3D Convolutional Neural Network (3D-CNN)** for detecting vegetation change using Sentinel-2 NDVI time series data.  
 The project was developed as part of the **Google DeepMind Research Ready Scheme** (2025).
+Full report is available at: ![Report](BSURE-Walid-Report.pdf)
 
 ---
 
